@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Tencent\微信web开发者工具\cli.bat" cloud functions deploy --e test1-4gs3b15140172b61 --n quickstartFunctions --r --project "D:\WXProjects\HITSZEDU-MyTest" --report_start && "C:\Program Files (x86)\Tencent\微信web开发者工具\cli.bat" cloud functions deploy --e test2-8gdehi9ldc169b9e --n quickstartFunctions --r --project "D:\WXProjects\HITSZEDU-MyTest" --report

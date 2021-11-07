@@ -1,6 +1,6 @@
 # 小程序云数据库基本操作实现
 
-## 云函数层接口实现
+## 云函数层接口实现 ---- `2021-10-28`  
 目录：cloudfunctions\cloud_database_functions\index.js
 
 实现：**调用当前目录下实现的数据库操作相关的云函数**
@@ -191,3 +191,8 @@ module.exports = {
 目录： miniprogram\databaseHelper\basic_CRUD
 
 实现： 针对每一个特定对象实现基本的CRUD操作
+
+
+## 服务器request接口封装 ---- `2021-11-7`
+**问题**: 云服务器上部署的认证服务已挂（暂未修复）
+

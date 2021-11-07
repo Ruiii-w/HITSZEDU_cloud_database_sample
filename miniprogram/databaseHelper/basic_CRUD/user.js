@@ -101,3 +101,13 @@ function delByID(_id, callback){
     );
 }
 
+module.exports = {
+    create : create,
+    retrieveAll : retrieveAll,
+    retrieveWithLimit: retrieveWithLimit,
+    retrieveByID : retrieveByID,
+    retrieveByOpenidAndIdentity : retrieveByOpenidAndIdentity,
+    update : update,
+    delByID : delByID,
+}
+

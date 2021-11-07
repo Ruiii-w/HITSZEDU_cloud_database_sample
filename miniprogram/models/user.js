@@ -20,7 +20,7 @@ class User{
         motto,          // 座右铭
         password,       // ********
         tel,            // telephone
-        identify,       // 身份 default: public、student、 admin
+        identify,       // 身份 default: public、student、admin
         permission,     // 权限 default: normal
         ){
             this._id;
